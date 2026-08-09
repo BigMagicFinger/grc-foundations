@@ -1,1 +1,48 @@
+# Information Security Policy
 
+## 1. Purpose
+
+The purpose of this policy is to establish basic information security requirements for protecting the organization's information, systems, devices, and other digital assets.
+
+## 2. Scope
+
+This policy applies to all employees, contractors, and third parties who access or use the organization's information systems and resources.
+
+## 3. Access Control
+
+- Users must only have access to information and systems required for their job responsibilities.
+- User accounts must not be shared.
+- Access should be reviewed periodically.
+- Access must be removed when a user's employment or engagement ends.
+
+## 4. Password Security
+
+- Users must create strong and unique passwords.
+- Passwords must not be shared with other individuals.
+- Multi-factor authentication should be enabled where available.
+- Default passwords must be changed before systems are put into use.
+
+## 5. Data Protection
+
+- Sensitive information must only be accessed by authorized individuals.
+- Sensitive information must be stored and transmitted using approved systems.
+- Users must not intentionally expose confidential organizational information.
+
+## 6. Security Awareness
+
+Employees must receive appropriate security awareness training and understand their responsibilities for protecting organizational information.
+
+## 7. Incident Reporting
+
+Suspected security incidents, unauthorized access, phishing attempts, data loss, or other security concerns must be reported through the organization's approved reporting process.
+
+## 8. Policy Review
+
+This policy should be reviewed periodically to ensure that it remains relevant to the organization's risks, business requirements, and applicable regulations.
+
+## 9. Document Information
+
+**Document Owner:** GRC / Information Security Team  
+**Version:** 1.0  
+**Status:** Draft  
+**Review Frequency:** Annually
